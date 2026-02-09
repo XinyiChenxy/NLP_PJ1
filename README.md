@@ -1,7 +1,3 @@
-下面是**整合后的完整 README.md（最终版）**，已经**按你的要求**把
-👉 **`BBC_DL/checkpoints/*.pth` 的生成说明紧跟在 `train` 命令后面**，逻辑清楚、TA/读者一眼就懂，可直接整体替换你现在的 README。
-
----
 
 # NLPpj1: ML, DL, and BERT for BBC News Text Classification
 
