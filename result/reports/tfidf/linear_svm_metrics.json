@@ -1,0 +1,45 @@
+{
+  "acc": 0.9865168539325843,
+  "precision_macro": 0.9861462397039269,
+  "recall_macro": 0.9868557422969187,
+  "f1_macro": 0.9864541491778617,
+  "auc": null,
+  "confusion_matrix": [
+    [
+      99,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      77,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      82,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      102,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      79
+    ]
+  ],
+  "auc_reason": "Target scores need to be probabilities for multiclass roc_auc, i.e. they should sum up to 1.0 over classes"
+}
